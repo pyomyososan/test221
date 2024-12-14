@@ -1,5 +1,5 @@
 # リアルタイム地震ビューアー
-
+※最後に重要なことを書いております。こちらは飛ばしていただいても構いませんが、最後は必ずお読み下さい。
 > [!IMPORTANT]
 > v1.6から独自のクラウド変数サーバーを使用するようになりました。この変更に伴い、利用規約とプライバシーポリシーを作成しました。[利用規約・プライバシーポリシー](terms.md)をご覧ください。  
 > [Scratch版](https://scratch.mit.edu/projects/636244032)や[TurboWarp版](https://turbowarp.org/636244032)では、それぞれ[Scratchのプライバシーポリシー](https://scratch.mit.edu/privacy_policy)、[TurboWarpのプライバシーポリシー](https://turbowarp.org/privacy.html)が適用されます。
@@ -117,3 +117,6 @@ Webアプリケーションのため、[ウェブサイト](https://kotoho7.gith
 
 ※効果音のチョイスは [BSC24 地震警戒放送２４時](https://ch.nicovideo.jp/bousai-share) を参考にしています。  
 ※揺れ検知の効果音は [JQuake](https://jquake.net/) の効果音を参考にして作成しています。
+
+### 制作
+- 当作はkotoho7(Kuppi-Scratch)氏と共同で開発したプロジェクトです。両方で同じ作品を公開しておりますのでどちらを閲覧していただいても構いませんが、Forkに関しましてはこちらから許可を得た上で行ってください。違反した場合には法的処置まではいきませんが、Githubの運営様方に連絡を入れさせていただきます。
